@@ -4750,7 +4750,7 @@
           <SpriteFolder Name="Inventar">
             <SubFolders />
             <Sprites>
-              <Sprite Slot="159" Width="31" Height="19" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="159" Width="38" Height="22" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
             </Sprites>
           </SpriteFolder>
           <SpriteFolder Name="Türen">
